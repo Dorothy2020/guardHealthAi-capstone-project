@@ -40,3 +40,22 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+
+## Project Slide
+
+
+
+
+[capstoneproject.pptx](https://github.com/user-attachments/files/24083227/capstoneproject.pptx)
+
+## project documenataion
+
+https://docs.google.com/document/d/1aaxBMXnEW_qQTve0gObR7_n3JCbB9wpg7S6H6lDZFmA/edit?usp=sharing
+
+
+## project hosted on vercel
+
+
+
+
+
